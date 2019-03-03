@@ -18,23 +18,5 @@ This course will show you all the new Android Jetpack Architecture components an
 ## Instructions and Navigation
 ### Assumed Knowledge
 No previous experience with Android Architecture Components is required
-### Technical Requirements
-This course has the following software requirements:<br/>
-Hardware Requirements:
-<ul><li>OS: Windows, MacOS or Ubuntu</li>
-<li>Processor: Intel Core i3 or higher</li>
-<li>Memory: 4GB RAM</li>
-<li>Storage: 15GB</li>
-</ul>
-<ul>Software Requirements
-<li>Java JDK 8</li>
-<li>Android Studio 3.0 or above </li>
-</ul>
 
-## Related Products
-* [Hands-On Android Application Components: Styles and Themes [Video]](https://www.packtpub.com/application-development/hands-android-application-components-styles-and-themes-video?utm_source=github&utm_medium=repository&utm_campaign=9781789808711)
-
-* [Hands-On Kubernetes and Docker for Distributed Applications [Video]](https://www.packtpub.com/virtualization-and-cloud/hands-kubernetes-and-docker-distributed-applications-video?utm_source=github&utm_medium=repository&utm_campaign=9781788994033)
-
-* [Kubernetes for Absolute Beginners - Hands-on [Video]](https://www.packtpub.com/application-development/kubernetes-absolute-beginners-hands-video?utm_source=github&utm_medium=repository&utm_campaign=9781838555962)
 
