@@ -1,4 +1,4 @@
-# Android Jetpack Architecture Components [Video]
+# Android Jetpack Architecture Components
 This is the code repository for [Android Jetpack Architecture Components [Video]](https://www.packtpub.com/application-development/android-jetpack-architecture-components-video?utm_source=github&utm_medium=repository&utm_campaign=9781789538229), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 <img src="https://github.com/udayrajsawhney/Android-Jetpack-Architecture-Components/blob/master/jetpack-hero.svg" width="400" height="400"/>
